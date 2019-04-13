@@ -11,6 +11,9 @@ Execution.py - Put events into a priority queue, which would later be managed by
 
 Portfolio.py - Initiate a portfolio and manage how the event affects the portfolio accounts.
 
+
 Backtest.py - Update the initialzied portfolio through the methods of the portfolio and manage the event queue.
 
 Strategy.py - Transform the bars to signal event. Every strategy has a different strategy file. 
+
+Performance.py - Collection of performance metrics.
